@@ -1,0 +1,14 @@
+{
+  "name": "surreal_test_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "surrealdb.js": "^0.5.0"
+  }
+}
